@@ -1,6 +1,5 @@
-# assignment\_sql_taste
+# Working with SQL
 A delicious appetizer of SQL-ey goodness
-
 
 ## Queries
 
